@@ -1,1 +1,1 @@
-# Infsci2591-Algorithms
+# INFSCI 2591 - Algorithms
